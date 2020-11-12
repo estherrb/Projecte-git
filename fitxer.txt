@@ -1,3 +1,6 @@
 Projecte git
 
 Canvio desde la branca master
+=======
+Modifico desde la branca branch1
+
